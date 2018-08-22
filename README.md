@@ -1,6 +1,6 @@
 # Credible Web CG Area-2 (Corroboration-Based Strategies)
 
-This repo is for gathering work around the “corroboration” strategy of credibility assessment, which involves looking to see what others have to say about the claims being assessed.  This is area-2 of the credible web work.
+This repo is for gathering work around the “corroboration” strategy of credibility assessment, which involves looking to see what others have to say about the claims being assessed.  This is area-2 of the [credible web work](https://credweb.org).
 
 The suggested proposals in this area are:
 
