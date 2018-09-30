@@ -2,6 +2,8 @@
 
 This repo is for gathering work around the “corroboration” strategy of credibility assessment, which involves looking to see what others have to say about the claims being assessed.  This is area-2 of the [credible web work](https://credweb.org).
 
+See: https://github.com/schemaorg/schemaorg/issues/1969 for work on ClaimReview itself.
+
 The suggested proposals in this area are:
 
 1. Allow professional fact-checks to be published in machine readable form so they can more easily be matched, used in automated assessments, and shown to users when appropriate. (Already being done using claimreview)
